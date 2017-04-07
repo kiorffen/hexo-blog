@@ -293,7 +293,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: kiorffen
+# duoshuo_shortname: kiorffen
 
 # Disqus
 #disqus_shortname:
@@ -302,7 +302,7 @@ duoshuo_shortname: kiorffen
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: b4c4a623bcc04d7b81c96c79b3d05bdb
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
@@ -316,16 +316,16 @@ duoshuo_shortname: kiorffen
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+# baidushare: true
 ##  type: button
 
 # Share
-#jiathis: true
+jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
 # Share
-duoshuo_share: true
+# duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
