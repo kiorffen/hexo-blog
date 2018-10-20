@@ -302,11 +302,11 @@ mathjax:
 #hypercomments_id:
 
 # Gentie productKey
-gentie_productKey: b4c4a623bcc04d7b81c96c79b3d05bdb
+# gentie_productKey: b4c4a623bcc04d7b81c96c79b3d05bdb
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+youyan_uid: 2138407
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
