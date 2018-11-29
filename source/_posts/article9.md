@@ -12,7 +12,7 @@ categories: python
 
 但是我个人更喜欢一个更简单的做法：就是利用python自带的CGIHTTPServer作为服务器，然后通过一个简单的html页面进行交互，通过post请求直接调用总控脚本，与用户进行交互。
 
-![http://o7s8xir65.bkt.clouddn.com/python-cgi.jpg](http://o7s8xir65.bkt.clouddn.com/python-cgi.jpg)
+![http://cdn.tanghaiyu.com/python-cgi.jpg](http://cdn.tanghaiyu.com/python-cgi.jpg)
 
 <!--more-->
 
